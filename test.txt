@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9AC4-C850
+
+ Directory of C:\Users\ADNIN\Desktop\Myproject
+
+21-05-2019  08:24    <DIR>          .
+21-05-2019  08:24    <DIR>          ..
+21-05-2019  08:22    <DIR>          .git
+21-05-2019  08:24                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)   4,622,770,176 bytes free
